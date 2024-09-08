@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.Contenedor {
+
+    display: flex;
+}
+
+.Columna {
+
+    padding: 10px;
+    margin: 0 125px;
+}
+
+footer {
+    text-align: center;
+}
+
+
+
+
